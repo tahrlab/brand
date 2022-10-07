@@ -7,15 +7,15 @@
 | Color | HEX | RGBA |
 | ----------- | ----------- | ----------- |
 | ![Eggplant](./fill/eggplant.png) | `#46004D` | `rgba(70, 0, 77, 1)` |
+| ![Purple](./fill/purple.png) | `#9E47FF` | `rgba(158, 71, 255, 1)` |
 
-The main and constant color of TahrLab brandy is eggplant. This color should have priority over other colors on palette.
+The main and constant colors of TahrLab brandy is eggplant and purple. These color should have priority over other colors on palette.
 
 
 ## Secondary Colors
 
 | Color | HEX | RGBA |
 | ----------- | ----------- | ----------- |
-| ![Purple](./fill/purple.png) | `#9E47FF` | `rgba(158, 71, 255, 1)` |
 | ![Aqua](./fill/aqua.png) | `#00F0FF` | `rgba(0, 240, 255, 1)` |
 | ![Green](./fill/green.png) | `#00FF87` | `rgba(0, 255, 135, 1)` |
 | ![Yellow](./fill/yellow.png) | `#EAFF04` | `rgba(234, 255, 4, 1)` |
