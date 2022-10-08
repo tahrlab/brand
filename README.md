@@ -4,7 +4,7 @@ This repository is the primary location for storing TahrLab brand assets like lo
 
 ### Table of Contents
 - [Logo](./logo/)
-- [Color Palette](./color-pallete/)
+- [Color Palette](./color-palette/)
 - [Typefaces](./typeface/)
 
 
